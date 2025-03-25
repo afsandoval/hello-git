@@ -1,4 +1,4 @@
-print ("Hola Mundo con GIT")
+print ("Hola Mundo con GIT SENA")
 
 #Este es un comentario para probar los cambios en el archivo
 
